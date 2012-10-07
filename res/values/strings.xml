@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jeu de la bouteille</string>
+    
+    <string name="bottle_layout_text">Jeu de la bouteille</string>
+        	
+    <string name="menu_lancer">Lancer la bouteille</string>
+    
+    <string name="mode_pret">Jeu de la bouteille\nPrêt à lancer !</string>
+	<string name="mode_fini">Numéro</string> 	    
+</resources>
